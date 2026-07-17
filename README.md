@@ -20,10 +20,10 @@
 <br />
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on **Metrobrain Technologies**
+- 🔭 I’m currently working on **[MetroBrain Technology](https://www.linkedin.com/company/metrobrain-technology/)**
 - 🧠 I’m currently learning **Advanced Frontend Development & AI**
 - 💬 Ask me about **React, JavaScript, and Frontend Design**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yash-lohare-669033206/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yash-lohare-669033206/), [Instagram](https://instagram.com/yashlohare17), or 📞 **7047123555**
 
 <!-- Tech Stack -->
 <br />

@@ -47,8 +47,8 @@
 <h3> 📊 GitHub Stats </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashlohare&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Yash's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashlohare&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yashlohare&show_icons=true&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Yash's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yashlohare&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashlohare&theme=tokyonight&hide_border=true" alt="GitHub Streak" />

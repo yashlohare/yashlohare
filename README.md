@@ -56,7 +56,7 @@
 
 <!-- Featured Projects -->
 <br />
-<h3> 🚀 Featured Products (Metrobrain Technologies) </h3>
+<h3> 🚀 Featured Products & Companies </h3>
 
-- 🧠 **[Metrobrain Abacus India](https://metrobrainabacus.in)** - Innovative EdTech platform for Abacus and cognitive development.
-- 🌍 **[Metrobrain Abacus Global](https://metrobrainabacus.com)** - Our global portal for the Metrobrain education ecosystem.
+- 🏢 **[MetroBrain Educare](https://metrobrainabacus.in)** - Official website for the parent company of MetroBrain Technology.
+- ⚙️ **[MetroBrain Abacus SaaS](https://metrobrainabacus.com)** - Dedicated SaaS platform built for our franchise users.

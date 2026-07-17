@@ -8,10 +8,10 @@
 
 <!-- Connect with me -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/yash-lohare/" target="_blank">
+  <a href="https://www.linkedin.com/in/yash-lohare-669033206/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/yashlohare" target="_blank">
+  <a href="https://instagram.com/yashlohare17" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
@@ -23,7 +23,7 @@
 - 🔭 I’m currently working on **Metrobrain Technologies**
 - 🧠 I’m currently learning **Advanced Frontend Development & AI**
 - 💬 Ask me about **React, JavaScript, and Frontend Design**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yash-lohare/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yash-lohare-669033206/)
 
 <!-- Tech Stack -->
 <br />
@@ -56,13 +56,7 @@
 
 <!-- Featured Projects -->
 <br />
-<h3> 🚀 Featured Projects </h3>
+<h3> 🚀 Featured Products (Metrobrain Technologies) </h3>
 
-<p align="center">
-  <a href="https://github.com/yashlohare/Swasthya_Sahayak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashlohare&repo=Swasthya_Sahayak&theme=tokyonight&hide_border=true" alt="Swasthya_Sahayak" />
-  </a>
-  <a href="https://github.com/yashlohare/metrobrain-tech">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashlohare&repo=metrobrain-tech&theme=tokyonight&hide_border=true" alt="metrobrain-tech" />
-  </a>
-</p>
+- 🧠 **[Metrobrain Abacus India](https://metrobrainabacus.in)** - Innovative EdTech platform for Abacus and cognitive development.
+- 🌍 **[Metrobrain Abacus Global](https://metrobrainabacus.com)** - Our global portal for the Metrobrain education ecosystem.
